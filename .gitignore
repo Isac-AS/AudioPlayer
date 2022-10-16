@@ -1,0 +1,10 @@
+*.py[cod]
+__pycache__/
+venv/
+*.code-workspace
+.vscode
+logs/
+backups/
+*.ui
+*.qrc
+preferences.json
